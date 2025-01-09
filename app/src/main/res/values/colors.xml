@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="TextColour">#53E88B</color>
+    <color name="StartColour">#53E88B</color>
+    <color name="EndColour">#15BE77</color>
+    <color name="orange">#FEAD1D</color>
+    <color name="card">#D1FF96</color>
+    <color name="Red">#E85353</color>
+    <color name="fika">#B3B3B3</color>
+
+</resources>

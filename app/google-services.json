@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382113474890",
+    "project_id": "admin-pannel-fcca0",
+    "storage_bucket": "admin-pannel-fcca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382113474890:android:831357d7cc87e657d739b3",
+        "android_client_info": {
+          "package_name": "com.example.adminpannel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Y9u2br03BALGI9TJaFw8Ils6Npo3-TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
